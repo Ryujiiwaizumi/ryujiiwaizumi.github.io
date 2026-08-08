@@ -1,0 +1,12 @@
+# Content / design source material — kept locally, not published to the public repo.
+SITE_BRIEF.md
+design-reference/
+uploads/
+.thumbnail
+
+# Local tooling (preview server config for development only).
+.claude/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
